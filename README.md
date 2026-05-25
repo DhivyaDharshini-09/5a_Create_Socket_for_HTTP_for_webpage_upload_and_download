@@ -83,5 +83,6 @@ server.close()
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/726f317d-2e24-426b-9e9a-174807e38fbe" />
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5d93375c-ef9e-4a6f-b90b-dbe6ca59af46" />
 
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
